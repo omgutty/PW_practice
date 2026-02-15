@@ -1,8 +1,4 @@
-var x = 1;
-
-function demo() {
-  console.log(x);
-  let x = 2;
+for (let i = 0; i < 5; i++) {
+  console.log(i);
+  i++;
 }
-
-demo();
