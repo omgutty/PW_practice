@@ -97,6 +97,29 @@ let arr1= [a,b,3,"5","Z",true]; //index is 5 (0,1,2,3,4)  //length is index+1
 
 console.log(arr1.length); //6 
 
+console.log("-------------9------------");
+
+
+let day =3;
+
+switch (day){
+
+case 1:
+    console.log("Sunday");
+    break;
+case 2:
+    console.log("Monday");
+
+case 3: 
+    console.log("Tuesday");
+    
+
+case 4:
+    console.log ("Wednesday");
+    break;
+
+
+}
 
 
 
