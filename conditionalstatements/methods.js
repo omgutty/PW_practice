@@ -42,3 +42,7 @@ let aa1=slice.aa(3,5); //ans 3, 4
 console.log (aa1);
 slice (1,5); //ans1, 2,3,4
 slice (7,9) //ans ?
+
+
+console.log("----------4-------");
+
